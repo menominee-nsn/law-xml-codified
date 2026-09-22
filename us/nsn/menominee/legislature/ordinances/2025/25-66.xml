@@ -12,7 +12,7 @@
       <adopted>2026-02-05</adopted>
     </history>
   </meta>
-  <codify:insert path="|I|170" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|§170-17|annos" codified:citation="Part I, § 170-17" codified:display="New">
+  <codify:insert path="|I|170" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|§170-17|annos">
     <container>
       <prefix>Article</prefix>
       <num>III</num>
@@ -21,13 +21,13 @@
         <prefix>§</prefix>
         <num>170-17</num>
         <heading>Title.</heading>
-        <text><cite path="|I|170|III">This article</cite> shall be titled "Prohibited Discrimination Related to Drug Testing".</text>
+        <text><cite path="|I|170|III" doc="Menominee Tribal Legislature Ord. No. 25-66">This article</cite> shall be titled "Prohibited Discrimination Related to Drug Testing".</text>
       </section>
       <section>
         <prefix>§</prefix>
         <num>170-18</num>
         <heading>Purpose.</heading>
-        <text>The purpose of <cite path="|I|170|III">this article</cite> is to prohibit employers or licensing entities, as those terms are defined herein, from taking adverse actions against employees based on a positive drug test for cannabis except as allowed for in this Article.</text>
+        <text>The purpose of <cite path="|I|170|III" doc="Menominee Tribal Legislature Ord. No. 25-66">this article</cite> is to prohibit employers or licensing entities, as those terms are defined herein, from taking adverse actions against employees based on a positive drug test for cannabis except as allowed for in this Article.</text>
       </section>
       <section>
         <prefix>§</prefix>
@@ -91,7 +91,7 @@
         </para>
         <para>
           <num>G.</num>
-          <text>"Safety-sensitive position" means: a position requiring a commercial driver’s license or requiring an employee to operate a motor vehicle for which state or federal law requires drug or alcohol testing of a job applicant or an employee; a position where the person is authorized to enforce the laws of the Tribe pursuant to <cite path="|I|132">Chapter 132</cite> of the Menominee Tribal Code; any other position which an employer deems to be safety-sensitive pursuant to a written policy if such written policy has been:</text>
+          <text>"Safety-sensitive position" means: a position requiring a commercial driver’s license or requiring an employee to operate a motor vehicle for which state or federal law requires drug or alcohol testing of a job applicant or an employee; a position where the person is authorized to enforce the laws of the Tribe pursuant to <cite path="|I|132" doc="Menominee Tribal Legislature Ord. No. 25-66">Chapter 132</cite> of the Menominee Tribal Code; any other position which an employer deems to be safety-sensitive pursuant to a written policy if such written policy has been:</text>
           <para>
             <num>(1)</num>
             <text>Implemented after the effective date of final approval of this Article III; and</text>
