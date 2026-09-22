@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>Menominee Indian Tribe of Wisconsin Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/menominee-nsn/law-xml</xml-bulk>
+      <html-bulk>https://github.com/menominee-nsn/law-html</html-bulk>
+      <static-assets>https://github.com/menominee-nsn/law-static-assets</static-assets>
+      <html>https://law.menominee-nsn.gov/</html>
+      <law-git>https://github.com/menominee-nsn/law.git</law-git>
+    </canonical-urls>
+    <history-start>2026-01-15</history-start>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="menominee-nsn/law-xml" commit="4a745abf9f532cd5456976be9fb4306538a15a32"/>
+      </repositories>
+      <platform version="2.22.5" reproducible="true"/>
+      <build-date>2026-09-22</build-date>
+      <codified-date>2026-01-15</codified-date>
+      <publication>publication/2026-09-22</publication>
+    </build>
+  </meta>
+  <xi:include href="./us/nsn/menominee/legislature/code/index.xml"/>
+  <collection name="us/nsn/menominee/legislature/ordinances">
+    <heading>Tribal Legislature Ordinances</heading>
+    <xi:include href="./us/nsn/menominee/legislature/ordinances/2026/index.xml"/>
+    <xi:include href="./us/nsn/menominee/legislature/ordinances/2025/index.xml"/>
+  </collection>
+</library>
